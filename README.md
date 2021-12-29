@@ -1,2 +1,2 @@
 # memcm
-SCCM Work / SQL Reports / Scripts stc.
+SCCM Work / SQL Reports / Scripts etc.
